@@ -1,0 +1,69 @@
+span {
+    font-size: 60px;
+}
+
+.time {
+    display: inline-block;
+    width: 60px;
+
+    font-size: 60px;
+    /* background-color: #afd173; */
+
+}
+
+#start {
+    display: inline-block;
+    width: 320px;
+    background-color: green;
+    color: white;
+    font-size: 25px;
+}
+#resume {
+    display: none;
+    width: 105px;
+    background-color: green;
+    color: white;
+    /* font-weight: bold; */
+    font-size: 25px;
+}
+
+#pause {
+    display: none;
+    width: 105px;
+    background-color: red;
+    color: white;
+    /* font-weight: bold; */
+    font-size: 25px;
+}
+
+#reset {
+    display: none;
+    width: 105px;
+    background-color: yellow;
+    /* font-weight: bold; */
+    font-size: 25px;
+}
+
+#lap {
+    display: none;
+    width: 105px;
+    background-color: blue;
+    color: white;
+    /* font-weight: bold; */
+    font-size: 25px;
+}
+
+#laps {
+    width: 320px;
+    color: blue;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.bgClr {
+    background-color: gainsboro;
+}
+
+body {
+    background-color: blanchedalmond;
+}
